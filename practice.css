@@ -1,0 +1,43 @@
+
+    *{
+        margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section1 img{
+    width: 100%;
+    height: 500px;
+}
+.section2 .pt-5{
+    margin-top: 100px;
+}
+
+:hover.section3 img{ 
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.section4 .btn{
+    width: 100px;
+    position: relative;
+    top: -20px;
+    margin-left: 250px;
+    
+}
+
+.section5 i:hover{
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+    }
+ 
+    .section img{
+        height: 200px;
+        width:300px ;
+    }
+    .section{
+        height: 170px;
+    }
+    .section .navbar{
+        margin-top: -70px;
+    }
